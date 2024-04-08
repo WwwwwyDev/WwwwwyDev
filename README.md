@@ -21,6 +21,6 @@
 
 
 <a href="https://github.com/WwwwwyDev/library-admin-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WwwwwyDev&repo=PyTopicsApiExplore&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WwwwwyDev&repo=library-admin-system&theme=buefy" />
 </a>
 
