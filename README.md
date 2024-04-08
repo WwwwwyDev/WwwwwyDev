@@ -10,8 +10,6 @@
 
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WwwwwyDev)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](773323518@qq.com)
 
