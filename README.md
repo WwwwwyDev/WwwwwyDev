@@ -23,8 +23,8 @@
 #### Top Repositories
 
 
-<a href="https://github.com/WwwwwyDev/crawlipt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WwwwwyDev&repo=crawlipt&theme=buefy" />
+<a href="https://github.com/WwwwwyDev/crawlist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WwwwwyDev&repo=crawlist&theme=buefy" />
 </a>
 
 <a href="https://github.com/WwwwwyDev/crawlipt">
