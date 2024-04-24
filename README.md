@@ -12,6 +12,10 @@
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=WwwwwyDev&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&hide_border=false" alt="WwwwwyDev's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WwwwwyDev&hide_title=true&layout=compact&hide_border=false" alt="Most Used Languages">
 </p>
 
+#### StreakStats
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WwwwwyDev&theme=blueberry-duo" alt="GitHub Streak" /></a></p>
+
 #### Visitors
 <div align="center"><img src="https://count.getloli.com/get/@WwwwwyDev?theme=rule15" alt="FTLIKON"></div>
 
