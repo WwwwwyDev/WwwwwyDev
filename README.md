@@ -14,13 +14,15 @@
 
 #### StreakStats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WwwwwyDev&theme=blueberry-duo" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WwwwwyDev&theme=whatsapp-light" alt="GitHub Streak" /></a>
+</p>
 
-#### Visitors
-<div align="center"><img src="https://count.getloli.com/get/@WwwwwyDev?theme=rule15" alt="FTLIKON"></div>
 
 #### Activity
 [![WwyDev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WwwwwyDev&theme=dracula&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/WwwwwyDev/github-readme-activity-graph)
+
+#### Visitors
+<div align="center"><img src="https://count.getloli.com/get/@WwwwwyDev?theme=rule15" alt="FTLIKON"></div>
 
 #### Top Repositories
 
