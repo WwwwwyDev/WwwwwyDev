@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/WwwwwyDev?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/followers/WwwwwyDev?style=social" alt="GitHub followers">
   <a href="https://github.com/WwwwwyDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="wwy20001014@foxmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Mail.Ru" alt="Email"></a>
+  <a href="mailto:wwy20001014@foxmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Mail.Ru" alt="Email"></a>
 </p>
 <p align="center">
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=WwwwwyDev&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&hide_border=false" alt="WwwwwyDev's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WwwwwyDev&hide_title=true&layout=compact&hide_border=false" alt="Most Used Languages">
