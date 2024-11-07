@@ -12,9 +12,9 @@
 
 
 ### ⚒ Skills
-🍓 **Front End** /  🍉 **Backend** / 🤖 **Deep Learning**
+🍓 **Front End** /  🍉 **Backend** / 🤖 **Deep Learning** / 🖥️ **Operation and maintenance**
 
-### 🍉 Tech Stack
+### 📚️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,python,c,java,nodejs,vue,express,bootstrap,html,css,js,jquery,flask,pytorch,qt,electron&perline=8)](https://skillicons.dev)
 
 
