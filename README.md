@@ -21,7 +21,7 @@
 
 ### 🐳 Contribution
 <p>
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=WwwwwyDev&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&hide_border=false" alt="WwwwwyDev's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WwwwwyDev&hide_title=true&layout=compact&hide_border=false" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=WwwwwyDev&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&hide_border=false&theme=vue" alt="WwwwwyDev's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WwwwwyDev&hide_title=true&layout=compact&hide_border=false" alt="Most Used Languages">
 </p>
 
 ### 👥 Visitors
