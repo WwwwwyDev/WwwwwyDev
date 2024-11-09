@@ -11,6 +11,7 @@
   <a href="mailto:wwwwwydev@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Mail.Ru" alt="Email"></a>
 </p>
 
+A full stack of software enthusiast
 
 ### ⚒ Skills
 🍓 **Front End** /  🍉 **Backend** / 🤖 **Deep Learning** / 🖥️ **Operation and maintenance**
