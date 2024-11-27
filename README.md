@@ -1,8 +1,8 @@
-<p align>
+<p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+!;This+is+WwyDev+....;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="WwyDev">
 </p>
 
-<p align=>
+<p>
   <img src="https://img.shields.io/github/stars/WwwwwyDev?style=social" alt="GitHub stars">
   <a href="https://github.com/WwwwwyDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://gitee.com/wu_wen_yi"><img src="https://img.shields.io/badge/Gitee-ea4335?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"></a>
