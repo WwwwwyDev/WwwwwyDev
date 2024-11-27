@@ -4,7 +4,6 @@
 
 <p align=>
   <img src="https://img.shields.io/github/stars/WwwwwyDev?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/followers/WwwwwyDev?style=social" alt="GitHub followers">
   <a href="https://github.com/WwwwwyDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://gitee.com/wu_wen_yi"><img src="https://img.shields.io/badge/Gitee-ea4335?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"></a>
  <a href="https://leetcode.cn/u/wu-wen-yi"><img src="https://img.shields.io/badge/Leetcode-f6b26b?style=flat-square&logo=leetcode&logoColor=white" alt="Gitee"></a>
