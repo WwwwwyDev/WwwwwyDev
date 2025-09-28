@@ -2,7 +2,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+!;This+is+WwyDev+....;Nice+to+meet+you!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="WwyDev"> -->
 </p>
 
-## This is WwyDev, a student studying at UCAS.
+## This is WwyDev.
 
 <p>
   <a href="https://github.com/WwwwwyDev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -11,7 +11,6 @@
   <a href="mailto:wwwwwydev@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=Mail.Ru" alt="Email"></a>
 </p>
 
-A programming enthusiast
 
 ### ⚒ Skills
 🍓 **Front End** /  🍉 **Backend** / 🤖 **Deep Learning** / 🖥️ **Operation and maintenance**
